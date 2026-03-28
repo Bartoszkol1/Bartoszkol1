@@ -12,7 +12,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://dc.ezblock.pl">Ezblock CEO</a>
     <a href="https://dc.ezblock.pl">🚀 Ezblock CEO</a>
     <br>
     「 Jestem osobą zajmującą się tworzeniem oprogramowań dla serwerów minecraft </b> 」
@@ -23,17 +22,11 @@
 </p>
 
 <p align="center">
- <a href="https://dc.ezblock.pl" target="blank">
-  <img src="https://img.shields.io/badge/Discord-0080ff?style=for-the-badge&logo=discord&logoColor=white" alt="Kontakt" />
- </a>
  <a href="https://www.youtube.com/@Bartoszkol1" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-ff2e2e?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
  </a>
   <a href="https://dc.ezblock.pl" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0080ff?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/@Bartoszkol1" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-ff2e2e?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
 </p>
 <br />
@@ -68,7 +61,7 @@
 <br/>
 
 
-![00fr3szuu](https://github-readme-activity-graph.vercel.app/graph?username=00fr3szuuu&custom_title=00fr3szuu%20Wykres%20Aktywności%20Github&bg_color=007bff&color=FFFFFF&line=FFFFFF&point=0040ff&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Bartoszkol1](https://github-readme-activity-graph.vercel.app/graph?username=Bartoszkol1&custom_title=00fr3szuu%20Wykres%20Aktywności%20Github&bg_color=007bff&color=FFFFFF&line=FFFFFF&point=0040ff&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00ccff&height=120&section=footer" width="100%" alt="Wave Footer" />
 </div>
