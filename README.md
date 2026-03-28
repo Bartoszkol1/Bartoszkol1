@@ -1,12 +1,3 @@
-@@ -1,57 +1,91 @@
-<a href="https://komarev.com/ghpvc/?username=Bartoszkol1">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Bartoszkol1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-  <img align="right" src="https://komarev.com/ghpvc/?username=Bartoszkol1&label=Odwiedzający&color=0e75b6&style=flat" alt="Licznik odwiedzających" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/b665d1c4-43b1-4b9a-8376-b43adb7f7691.svg)](https://wakatime.com/@b665d1c4-43b1-4b9a-8376-b43adb7f7691)
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=500&lines=Bartoszkol1;Developer+Pluginów+Minecraft;CEO+EzBlock" alt="Typing SVG" />
 </div>
