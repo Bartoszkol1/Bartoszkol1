@@ -59,9 +59,6 @@
 <br/>
 <hr/>
 <br/>
-
-
-![Bartoszkol1](https://github-readme-activity-graph.vercel.app/graph?username=Bartoszkol1&custom_title=00fr3szuu%20Wykres%20Aktywności%20Github&bg_color=007bff&color=FFFFFF&line=FFFFFF&point=0040ff&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00ccff&height=120&section=footer" width="100%" alt="Wave Footer" />
 </div>
