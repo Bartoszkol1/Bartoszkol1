@@ -35,7 +35,7 @@
  ❤️ &emsp; Kocham tworzyć co raz to ciekawsze projekty<br/><br/>
 
 </p>
-## 💫 O mnie
+# 💫 O mnie
 
 <img align="right" width="200" src="https://imgur.com/2JpH6fZ.png" alt="Minecraft coding gif" />
 
@@ -49,7 +49,7 @@
 
 ## 📊 Aktywność
 
-![Bartoszkol1](https://github-readme-activity-graph.vercel.app/graph?username=Bartoszkol1&custom_title=00fr3szuu%20Wykres%20Aktywności%20Github&bg_color=1a1b27&color=FFFFFF&line=0080ff&point=0040ff&area_color=0080ff&title_color=FFFFFF&area=true&hide_border=true)
+![Bartoszkol1](https://github-readme-activity-graph.vercel.app/graph?username=Bartoszkol1&custom_title=Bartoszkol1%20Wykres%20Aktywności%20Github&bg_color=1a1b27&color=FFFFFF&line=0080ff&point=0040ff&area_color=0080ff&title_color=FFFFFF&area=true&hide_border=true)
 
 
 <br/>
