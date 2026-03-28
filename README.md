@@ -37,7 +37,7 @@
 </p>
 # 💫 O mnie
 
-<img align="right" width="200" src="https://imgur.com/2JpH6fZ.png" alt="Minecraft coding gif" />
+<img align="right" width="200" src="https://cdn.discordapp.com/avatars/1065740025909739521/192d295a7bfb33de41b343f143ebae17.png" alt="Minecraft coding gif" />
 
 - 🎮 Tworzę zaawansowane pluginy dla serwerów Minecraft od ponad 2 lat
 - 💼 Założyciel i główny DEV **EzBlock** - społeczności programistycznej minecraft
